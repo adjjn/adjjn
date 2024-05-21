@@ -1,4 +1,4 @@
-![Header](https://github.com/adjjn/adjjn/blob/main/github-header-image%20(2).png)
+![Header](https://github.com/adjjn/adjjn/blob/main/github-header-image%20(3).png)
 <h1 align="center">Hi 👋, I'm ADITI JAIN</h1>
 <h3 align="center">A passionate full stack developer from India.</h3>
 
