@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm ADITI JAIN</h1>
 <h3 align="center">A passionate full stack developer from India.</h3>
 
-<img align="right" alt="coding" width="400" src="https://media.tenor.com/AlUkiGkR2j8AAAAM/new-game-ahagon-umiko-programming.gif">
+<img align="right" alt="coding" width="400" src="https://media2.giphy.com/media/NgurY1o4z080Jfoyzw/giphy.gif?cid=6c09b952mgjef89o3cjpozerv49y815edc4gl2d1777xl7tr&ep=v1_stickers_related&rid=giphy.gif&ct=s">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adjjn&label=Profile%20views&color=0e75b6&style=flat" alt="adjjn" /> </p>
 
